@@ -1,0 +1,15 @@
+{
+  "name": "odds",
+  "version": "0.0.1",
+  "description": "A game of odds, putting everyone at odds.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nw": "nw"
+  },
+  "author": "Donnie Reese",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.7.0"
+  }
+}
